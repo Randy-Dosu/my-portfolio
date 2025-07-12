@@ -1,0 +1,10 @@
+.back_btn{
+    background-color: blueviolet;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+}
+.back_btn :hover{
+    background-color: yellowgreen;
+    cursor: pointer;
+}
